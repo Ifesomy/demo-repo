@@ -1,3 +1,3 @@
 # demo-repo
 
-new project!
+new project! coming soon
